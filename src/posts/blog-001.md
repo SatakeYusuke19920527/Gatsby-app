@@ -1,5 +1,5 @@
 ---
-title: タイトル1
+title: (｀・ω・´)
 date: '2020-12-07'
 thumbnail: '../images/image_001.jpg'
 ---
