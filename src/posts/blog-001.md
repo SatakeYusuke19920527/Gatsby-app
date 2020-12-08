@@ -1,7 +1,7 @@
 ---
 title: タイトル1
 date: '2020-12-07'
-thumbnail: '../images/image_003.jpg'
+thumbnail: '../images/image_001.jpg'
 ---
 
 Gatsby
